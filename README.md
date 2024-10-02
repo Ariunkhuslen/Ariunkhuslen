@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hello 👋, I'm Ariunkhuslen
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Kenan Gain</h1>
 <!--
 **ariunkhuslen/Ariunkhuslen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
